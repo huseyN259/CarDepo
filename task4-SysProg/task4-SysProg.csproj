@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>task4_SysProg</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Windows\icons8-carpool-48.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\icons8-carpool-48.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,86 @@
+[
+  {
+    "Make": "Hyundai",
+    "Model": "Tiburon",
+    "Year": 2007,
+    "ImagePath": "http://dummyimage.com/235x100.png/5fa2dd/ffffff"
+  },
+  {
+    "Make": "Audi",
+    "Model": "S5",
+    "Year": 2009,
+    "ImagePath": "http://dummyimage.com/162x100.png/5fa2dd/ffffff"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Optima",
+    "Year": 2009,
+    "ImagePath": "http://dummyimage.com/127x100.png/ff4444/ffffff"
+  },
+  {
+    "Make": "Mitsubishi",
+    "Model": "Outlander",
+    "Year": 2008,
+    "ImagePath": "http://dummyimage.com/186x100.png/cc0000/ffffff"
+  },
+  {
+    "Make": "Honda",
+    "Model": "del Sol",
+    "Year": 1993,
+    "ImagePath": "http://dummyimage.com/145x100.png/dddddd/000000"
+  },
+  {
+    "Make": "Audi",
+    "Model": "100",
+    "Year": 1991,
+    "ImagePath": "http://dummyimage.com/172x100.png/ff4444/ffffff"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Astro",
+    "Year": 1994,
+    "ImagePath": "http://dummyimage.com/239x100.png/ff4444/ffffff"
+  },
+  {
+    "Make": "Pontiac",
+    "Model": "Grand Prix",
+    "Year": 1999,
+    "ImagePath": "http://dummyimage.com/143x100.png/dddddd/000000"
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Legacy",
+    "Year": 2004,
+    "ImagePath": "http://dummyimage.com/168x100.png/5fa2dd/ffffff"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic GX",
+    "Year": 2003,
+    "ImagePath": "http://dummyimage.com/106x100.png/ff4444/ffffff"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Tucson",
+    "Year": 2009,
+    "ImagePath": "http://dummyimage.com/171x100.png/dddddd/000000"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Altima",
+    "Year": 2003,
+    "ImagePath": "http://dummyimage.com/120x100.png/dddddd/000000"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Silverado 1500",
+    "Year": 2008,
+    "ImagePath": "http://dummyimage.com/222x100.png/5fa2dd/ffffff"
+  },
+  {
+    "Make": "Jeep",
+    "Model": "Commander",
+    "Year": 2006,
+    "ImagePath": "http://dummyimage.com/170x100.png/5fa2dd/ffffff"
+  }
+]
